@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**kaavyajain/kaavyajain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [![kaavya jain's header](https://github.com/kaavyajain/kaavyajain/blob/main/banner%20gif.gif)]
 
 Here are some ideas to get you started:
 
