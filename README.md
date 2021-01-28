@@ -27,7 +27,7 @@ I am a 2nd-year Undergraduate Student at Shiv Nadar University, pursuing a B.Tec
   <summary>Find me around the web :globe_with_meridians:</summary>
   
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/kaavyajain_/ "Follow on Instagram")
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/user/kaavkom/playlistss "My YouTube playlists")
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/user/kaavkom/playlists "My YouTube playlists")
 ----
 
 </details>
