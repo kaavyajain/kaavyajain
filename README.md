@@ -32,7 +32,7 @@ I am a 2nd-year Undergraduate Student at Shiv Nadar University, pursuing a B.Tec
 
 </details>
 
-![Profile last updated](https://img.shields.io/github/last-commit/kaavyajain/kaavyajain/readme.md?label=Last%20updated&style=flat)
+![Profile last updated](https://img.shields.io/github/last-commit/kaavyajain/kaavyajain?label=Last%20updated&style=flat)
 
 <!--For future reference 
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
