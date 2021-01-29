@@ -16,7 +16,7 @@ I am a 2nd-year Undergraduate Student at Shiv Nadar University, pursuing a B.Tec
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
   
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=kaavyajain&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=kaavyajain&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kaavyajain)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=kaavyajain&color=blue)
   ----
