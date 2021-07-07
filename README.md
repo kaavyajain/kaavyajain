@@ -2,7 +2,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-kaavkom@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kaavkom@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Kaavya%20Jain-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaavya-jain/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@kaavyaj-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/kaavyaj "Contact on Telegram")
 
 
 I am a 2nd-year Undergraduate Student at Shiv Nadar University, pursuing a B.Tech in Computer Science Engineering, who is exploring android app development, machine learning, open source and other technical fields. I love to learn and contribute in any and every possible way.
