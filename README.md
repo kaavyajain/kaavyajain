@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Kaavya%20Jain-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaavya-jain/ "Connect on LinkedIn")
 
 
-I am a 3rd-year Undergraduate Student at Shiv Nadar University, pursuing a B.Tech in Computer Science Engineering, who is exploring android app development, machine learning, open source and other technical fields. I love to learn and contribute in any and every possible way.
+I am a 4th-year Undergraduate Student at Shiv Nadar University, pursuing a B.Tech in Computer Science Engineering, who is exploring android app development, machine learning, open source and other technical fields. I love to learn and contribute in any and every possible way.
 
 - 🌱 I’m currently learning App Development using Kotlin.
 - 👯 I’m looking to collaborate on any Hackathons and development project which seems interesting or useful.
